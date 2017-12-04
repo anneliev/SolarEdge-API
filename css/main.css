@@ -1,0 +1,59 @@
+body {
+	padding: 3em;
+}
+#right-column {
+  padding-left: 3em;
+}
+.img-current {
+	width: 192px;
+	height: 192px;
+}
+.img-enviroment {
+	width: 82px;
+	height: 82px;
+}
+.green-text  {
+	color: #55ce63;
+}
+.slim-title {
+	font-weight: 300;
+}
+.effekt-punkt{
+	color: #2f3d4a;
+}
+.forbruknings-punkt{
+	color: #009efb;
+}
+.egenforbruknings-punkt{
+  color: #00897b;
+}
+.energi-punkt{
+	color: #55ce63;
+}
+.enviroment-card {
+	margin-bottom: 1.5em;
+	padding-left: 0.5em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+#power-details-current {
+	text-align: center;
+	margin-bottom: 10em;
+}
+#power-details-week{
+	margin-right:0; 
+	margin-left:0
+}
+#site-overview {
+	margin-bottom: 5em;
+}
+#overview-card {
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+#site-logo {
+	padding-top: 1em;
+	float: right;
+}
